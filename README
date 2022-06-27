@@ -1,0 +1,5 @@
+Author: Albert Brown 
+
+This script will use either the encode or decoder and will encode a file using the pthon script then use the batch scripts to lock the user out of the file so the message remains secret.
+
+The script will then use the decoder to rlease the document so the user can read the information.
